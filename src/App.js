@@ -59,10 +59,8 @@ function App() {
           className="text-center mb-5"
         />
 
-        {/* Quitar gap-3 para menos separación */}
         <div className="d-flex flex-wrap justify-content-between">
 
-          {/* Quitar mx-auto para no centrar con márgenes */}
           <div className="col-md-4 p-2 bg-secondary bg-opacity-75 border rounded shadow text-center">
             <Imagen
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg4BSd8c4203DFdrRMpkk9gRxPIdeidlItGQ&s"
